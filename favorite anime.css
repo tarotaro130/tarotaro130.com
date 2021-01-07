@@ -1,0 +1,110 @@
+body{
+    background-color:lightskyblue;
+}
+header{
+    height: 80px;
+    background-color:blue;
+    margin-bottom: 55px;
+}
+.header-logo{
+    margin-top: 15px;
+    margin-left: 20px;
+    color:white;
+    font-size: 30px;
+    border-bottom:3px solid white;
+    float: left;
+}
+.header-list li{
+    list-style: none;
+}
+.header-list a{
+    font-size: 20px;
+    margin-top: 38px;
+    margin-left: 100px;
+    color:white;
+    float: left;
+}
+footer{
+    height: 50px;
+    background-color: blue;
+}
+.footer-list li{
+    list-style: none;
+}
+.footer-list a{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 200px;
+    color:white;
+    float: left;
+}
+.title{
+    height: 25px;
+    background-color:darkred;
+    border-bottom:5px solid darkblue;
+    margin-bottom: 30px;
+}
+.title h1{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.contents{
+    color: white;
+    margin-top: 50px;
+}
+.fifth{
+    background-color: darkgreen;
+}
+.fourth{
+    background-color:purple;
+}
+.third{
+    background-color: darkblue;
+}
+.second{
+    background-color: red;
+}
+.first{
+    background-color: darkslategray;
+}
+.introduction{
+    background-color: brown;
+    color: white;
+}
+.summary{
+    background-color:darkgreen;
+}
+
+.contents a ,h2 ,h4 ,p ,img{
+    margin-left: 20px;
+}
+.cite{
+    color: white;
+    font-size: 5px;
+}
+cite a{
+    color: white;
+}
+.fifth  img{
+    width: 50vw;
+    height: 30vw;
+}
+.fourth img{
+    width: 50vw;
+    height: 60vw;
+}
+.third img{
+    width: 50vw;
+    height: 55vw;
+}
+.second img{
+    width:30vw ;
+    height:50vw ;
+}
+.first img{
+    height: 45vw;
+    width: 35vw;
+}
+
+
